@@ -40,8 +40,7 @@ my-intto/
 - **Hosting / Deployment**: Vercel
 
 ## 公開URL
-- **Vercel**: `[ここにVercelでデプロイしたURLを記載してください]`
-  > ※Vercelでのデプロイ完了後、発行されたURL（例: `https://...`）に書き換えて提出用のリンクとしてお使いください。
+- **Vercel**: `https://my-intro-brown.vercel.app/`
 
 ## 備考
 本リポジトリは課題提出要件である以下を満たすよう設定・作成されています。
